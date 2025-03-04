@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
