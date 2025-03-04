@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
