@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
 | ------- |
@@ -208,8 +209,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
