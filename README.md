@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
