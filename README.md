@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
