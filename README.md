@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
