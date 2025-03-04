@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
