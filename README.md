@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
