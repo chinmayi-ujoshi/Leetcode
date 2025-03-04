@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0056-merge-intervals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0056-merge-intervals) |
 ## Linked List
 |  |
 | ------- |
