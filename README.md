@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
