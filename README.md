@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/chinmayi-ujoshi/Leetcode/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
